@@ -3,6 +3,7 @@ A program that is used to determine the barcodes of products based on their weig
 
 ## Usage 
 Project 1
+
 Project 2
 Project 3
 Project 4
